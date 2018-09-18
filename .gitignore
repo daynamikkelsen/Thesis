@@ -1,2 +1,4 @@
 data/uba_genome_sequences/*
 data/CARD/*
+.ipynb_checkpoints
+data/.DS_Store
